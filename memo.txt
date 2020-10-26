@@ -4,3 +4,4 @@
 3. css 
 4. javascript
 5. android, kotlin
+6. c 언어
